@@ -89,3 +89,22 @@ lerna-debug.log
 # System Files
 .DS_Store
 Thumbs.db
+.eslintignore
+.eslintrc.json
+.gitignore
+.npmignore
+LICENSE
+package-lock.json
+package.json
+README.md
+.cache/6a/712f8b883fbc3f75c57135a58121db.json
+.cache/ce/65b71f145f64c0a902648011b253a8.json
+.cache/dd/4e57550119db9b8263b1e2b5af7140.json
+dist/index.html
+dist/main.28462732.js
+dist/main.28462732.js.map
+dist/style.b2a03f1d.css
+dist/style.b2a03f1d.css.map
+src/index.html
+src/main.js
+src/style.css
