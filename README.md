@@ -1,2 +1,1 @@
 # tictactwo
-A JavaScript project
